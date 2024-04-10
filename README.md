@@ -34,6 +34,7 @@ To run the notebook locally, you will need the following libraries:
 - sqlite3
 
 ## Notebook
+(You can follow the link to open the notebook on [Google Colab](https://colab.research.google.com/github/pboric/Project-4/blob/main/Mental_Health_in_the_Tech_Industry.ipynb))
 
 You can install these libraries using pip:
 
